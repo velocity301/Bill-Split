@@ -1,6 +1,6 @@
 # Billsplit.py
 # GUI version
-
+# Added to github under velocity301
 # currently working on adding a tip button and box
 # next will be the checkbox state logic and math splitting it between people
 from tkinter import *
